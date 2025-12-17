@@ -11,6 +11,7 @@
 - Clash Verge（最新版）https://github.com/clash-verge-rev/clash-verge-rev
 - 机场订阅（贴一个机场测速的网站，如果还没有订阅可以参考）https://www.duyaoss.com
 - 静态住宅 IP（目前自用）https://cliproxy.com/zh
+- 注意哦，不做推荐，不写推荐码。因为我不想做售后客服，我不赚你钱，这些网站出问题了也别找我。
 
 ## 2/ 添加机场订阅
 
