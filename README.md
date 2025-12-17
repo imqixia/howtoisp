@@ -70,7 +70,7 @@ rules:
 
 ## 6/ 检查静态住宅 ip 节点
 
-- 打开检测 ip 网站，检查自己的 ip 是否为刚才配置的静态住宅 ip，以及这个 ip 的纯净度。这是使用的是 [ping0.cc](ping0.cc)
+- 打开检测 ip 网站，检查自己的 ip 是否为刚才配置的静态住宅 ip，以及这个 ip 的纯净度。这是使用的是 pin0.cc
 
 <img width="998" height="336" alt="截屏2025-12-17 16 57 45" src="https://github.com/user-attachments/assets/de4e016c-6329-4882-b885-2c5009f27f77" />
 
